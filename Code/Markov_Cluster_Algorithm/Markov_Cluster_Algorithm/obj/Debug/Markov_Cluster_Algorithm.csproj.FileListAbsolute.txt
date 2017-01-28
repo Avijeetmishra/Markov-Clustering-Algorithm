@@ -1,0 +1,13 @@
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\bin\Debug\Markov_Cluster_Algorithm.exe.config
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.csprojResolveAssemblyReference.cache
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Interop.MDACVer.dll
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.csproj.ResolveComReference.cache
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.Form1.resources
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.Properties.Resources.resources
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.csproj.GenerateResource.Cache
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\bin\Debug\Markov_Cluster_Algorithm.exe
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\bin\Debug\Markov_Cluster_Algorithm.pdb
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\bin\Debug\Oracle.DataAccess.dll
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.exe
+E:\data mining\hw3\Markov_Cluster_Algorithm\Markov_Cluster_Algorithm\obj\Debug\Markov_Cluster_Algorithm.pdb
